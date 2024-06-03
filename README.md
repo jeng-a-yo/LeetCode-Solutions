@@ -9,5 +9,4 @@ This repository contains solutions to LeetCode problems implemented in C, Python
 - `Java/`: Contains solutions implemented in Java.
 
 Feel free to explore the solutions and contribute your own implementations!
-
-Happy coding! 
+Mastering elegant code!
