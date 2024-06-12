@@ -1,10 +1,5 @@
 import java.util.*;
 
-public class leetcode_3 {
-    
-}
-
-
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         if (s == null || s.length() == 0) {

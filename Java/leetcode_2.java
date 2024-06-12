@@ -1,7 +1,3 @@
-public class leetcode_2 {
-    
-}
-
 class Solution{
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode(0);
